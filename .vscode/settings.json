@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\crisp\\Desktop\\CS Fourth Year\\CS 498 Software Engineering\\Java Canvas Widget\\canvas-api\\canvas-api.jar"
+    ]
+}
